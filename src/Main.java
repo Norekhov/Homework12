@@ -8,7 +8,6 @@ public class Main {
         Book two = new Book("Евгений Онегин", 1833, pushkin);
         System.out.println(two);
 
-
         Author lermontov = new Author("Михаил", "Лермонтов");
         Book three = new Book("Герой нашего времени", 1838, lermontov);
         System.out.println(three);

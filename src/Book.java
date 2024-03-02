@@ -13,7 +13,7 @@ public class Book {
 
     @Override
     public String toString() {
-        return "Название книги - " + title + ", год издания - " + yearRelease + ", автор - " + author + ".";
+        return "Название книги - " + title + ", год издания - " + yearRelease + ". Автор - " + author + ".";
     }
 
     @Override
